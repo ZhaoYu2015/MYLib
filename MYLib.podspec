@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MYLib'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MYLib.'
+  s.summary          = 'This is private lib for myself.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
